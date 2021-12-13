@@ -21,4 +21,4 @@ This example to show:
 
 ## Main thread
 
-//src/main.rc
+//src/main.rs
