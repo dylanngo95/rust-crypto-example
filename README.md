@@ -1,5 +1,5 @@
 # Crypto example
-This example to show, How to Hash, Encrypt, Signature plain text, decrypt cipher text.
+This example to show: How to hash, Encrypt plain text and Decrypt cipher text, Signature and Verify plain text.
 
 
 ## Require modules:
