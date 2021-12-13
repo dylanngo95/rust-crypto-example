@@ -1,5 +1,8 @@
 # Crypto example
-This example require modules:
+This example to show, How to Hash, Encrypt, Signature plain text, decrypt cipher text.
+
+
+## Require modules:
 
 * sha2 = "0.10.0"
 * rsa = "0.5.0"
